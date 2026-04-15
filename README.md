@@ -1,60 +1,22 @@
-# 👨‍💻 Min-su Kim, the Interactive Web Developer
-### 🚀 Turning Data into Digital Experiences with Code & Graphics
+# 🪐 Hello World, I'm Herb-kms!
+### 🌌 Crafting Digital Universes with WebGL, Big Data & Pure Imagination
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c7ff&height=180&section=header&text=Building%20the%20Future%20Web&fontSize=60&fontAlign=50&fontAlignY=35&animation=fadeIn" />
-</p>
-
-## 📌 About Me
-<p align="center">
-안녕하세요! 빅데이터를 전공하며 <b>인터랙티브한 웹 경험</b>을 만드는 것에 열정을 가진 <b>김민수(20235123)</b>입니다.
-WebGL을 활용한 그래픽 구현과 Python을 이용한 데이터 분석 및 이미지 처리에 관심이 많으며, 데이터를 시각적으로 가치 있게 전달하는 웹 애플리케이션을 지향합니다.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29&height=280&section=header&text=Herb-kms%20//%20Creative%20Developer&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=WebGL%20•%20Big%20Data%20•%20Interactive%20Web&descAlign=50&descAlignY=60" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Herb-kms">
-    <img src="https://img.shields.io/badge/GitHub-Herb--kms-0078D4?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00c7ff&center=true&vCenter=true&width=500&lines=I+am+a+Big+Data+%26+Software+Student;I+create+interactive+3D+graphics+with+WebGL;I+process+visual+data+using+OpenCV;Always+learning+new+technologies." alt="Typing SVG" />
 </p>
 
----
-
-## 🛠 Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"> |
-| **Backend & Data** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> |
-| **Tools & Dev** | <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"> |
-
----
-
-## 📊 Analytics
-
+## 🧑‍🚀 About the Voyager
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Herb-kms&show_icons=true&theme=tokyonight&align=center&hide_border=true" alt="Minsu's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herb-kms&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Herb--kms-0078D4?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Software-Big%20Data-FFD700?style=for-the-badge&logo=dataversioncontrol&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sookmyung-Women's%20Univ.-A8002F?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
-
----
-
-## 🌟 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Herb-kms&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true" alt="trophy" />
-</p>
-
----
-
-## 🚀 Projects
-- **WebGL Graphics Project**
-  - `<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white">` 3D 피라미드 렌더링 및 셰이더 구현
-- **Image Processing**
-  - `<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">` OpenCV를 이용한 히스토그램 평활화 및 필터링
-- **Data Analysis**
-  - 빅데이터 전공 역량을 바탕으로 한 데이터 시각화 프로젝트
-
----
-
-<p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHerb-kms&count_bg=%2300c7ff&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-</p>
+<p align="center" style="font-size: 1.1em; line-height: 1.6;">
+안녕하세요! 🪐 <b>김민수(20235123)</b>입니다. <br>
+단순한 코딩을 넘어, <b>데이터와 그래픽이 융합된 인터랙티브한 웹 세상</b>을 꿈꿉니다. <br>
+WebGL로 3차원 가상 공간을 구축하고, OpenCV로 시각 데이터를 분석하여 <br>
+사용자에게 놀라운 경험을 선사하는 개발자가 되기 위해 탐험 중입니다.
