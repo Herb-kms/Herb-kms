@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm Min-su Kim (20235123)
+# 🚀 Hello, I'm Min-su Kim
 ### 💻 Web & Big Data Software Student 
 
 <p align="left">
