@@ -54,11 +54,6 @@ WebGL로 3차원 가상 공간을 구축하고, OpenCV로 시각 데이터를 �
 ## 📊 Mission Control Center (Analytics)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Herb-kms&show_icons=true&theme=hacker&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF&text_color=FFFFFF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herb-kms&layout=compact&theme=hacker&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=FFFFFF" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herb-kms&theme=github_dark" width="98%" alt="GitHub Profile Summary" />
 </div>
 
@@ -72,10 +67,6 @@ WebGL로 3차원 가상 공간을 구축하고, OpenCV로 시각 데이터를 �
 | [**one-brand-project**](https://github.com/Herb-kms/one-brand-project) | Next.js로 제작한 반응형 브랜드 소개 및 프로모션 웹사이트 | `TypeScript 96.9%` `JavaScript 1.9%` `CSS 1.2%` |
 | [**my-app**](https://github.com/Herb-kms/my-app) | React 기반의 3D UI와 게임플레이 요소를 구현한 인터랙티브 웹 프로젝트 | `JavaScript 90.2%` `CSS 9.5%` `HTML 0.3%` |
 | [**bk5730433**](https://github.com/Herb-kms/bk5730433) | 상품 판매·대여, 리뷰, 회원 및 관리자 기능을 갖춘 웹 서비스 | `JavaScript 52.2%` `CSS 25.7%` `HTML 21.8%` `Batchfile 0.3%` |
-
-<p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHerb-kms&count_bg=%2300C7FF&title_bg=%23000000&icon=github&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Profile views" />
-</p>
 
 ---
 
