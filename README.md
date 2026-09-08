@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00c7ff&center=true&vCenter=true&width=800&lines=I+am+a+Big+Data+%26+Software+Student;I+create+interactive+3D+graphics+with+WebGL;I+process+visual+data+using+OpenCV;Always+learning+new+technologies." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00c7ff&center=true&vCenter=true&width=800&lines=I+am+a+Big+Data+%26+Software+Student;I+create+interactive+Web;Always+learning+new+technologies." alt="Typing SVG" />
 </div>
 
 ## 🧑‍🚀 About the Voyager
