@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29&height=280&section=header&text=Herb-kms%20//%20Creative%20Developer&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=WebGL%20•%20Big%20Data%20•%20Interactive%20Web&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29&height=280&section=header&text=김민수&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=WebGL%20•%20Big%20Data%20•%20Interactive%20Web&descAlign=50&descAlignY=60" />
 </div>
 
 <div align="center">
