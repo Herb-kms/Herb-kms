@@ -55,13 +55,6 @@ WebGL로 3차원 가상 공간을 구축하고, OpenCV로 시각 데이터를 �
 
 ---
 
-## 🌟 Trophies of Honor
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Herb-kms&theme=hacker&column=7&margin-w=10&margin-h=10&no-bg=true" alt="trophy" />
-</div>
-
----
-
 ## 🚀 Recent Expeditions (Projects)
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -77,7 +70,6 @@ WebGL로 3차원 가상 공간을 구축하고, OpenCV로 시각 데이터를 �
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Herb-kms/Herb-kms/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Herb-kms/Herb-kms/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Herb-kms/Herb-kms/output/github-contribution-grid-snake.svg">
   </picture>
